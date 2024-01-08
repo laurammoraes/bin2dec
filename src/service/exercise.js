@@ -1,7 +1,8 @@
-function verifyNumbers(number){
 
+
+function verifyNumbers(number){
     if(number.length<=8 && /^[01]+$/.test(number)){
-      return true
+        return true
     }else{
         return false
     }

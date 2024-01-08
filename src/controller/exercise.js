@@ -7,11 +7,10 @@ function convertNumber(number){
    console.log(verify)
    if(verify == true){
         const convertNumber = exercise.convertNumber(number);
-        
         return {status:200, response: "O número binário em decimal é: " + convertNumber.toString()}
 
    }else{ 
-    const message ="Não é uma sequencia numérica binária"
+    const message ="O número digitado não é uma sequencia binária ou possui mais do que 8 dígitos"
     return {status: 500, response: message}
    }
 }
