@@ -8,9 +8,9 @@
 
 ###
 
-<p align="left">No exercício Bin2Dec, foi solicitado que construíssemos um conversor de número binário para decimal. <br><br><b>Condições:<b> <br><br>O input deveria ser apenas 8 dígitos decimais, ou seja, números diferente de 0 e 1 deveriam não ser aceitos. <br><br><b>Tecnologias:<b> <br><br>Para construção da aplicação, utilizei o framework Express.js e a linguagem Node.js.</p>
+<p align="left">No exercício Bin2Dec, foi solicitado que construíssemos um conversor de número binário para decimal. <br><br><b>Condições:</b> <br><br>O input deveria ser apenas 8 dígitos decimais, ou seja, números diferente de 0 e 1 deveriam não ser aceitos. <br><br><b>Tecnologias:</b> <br><br>Para construção da aplicação, utilizei o framework Express.js e a linguagem Node.js.</p>
 
-<h4 align="left"><b> Instruções para testar o Bin2Dec<b> </h4>
+<h4 align="left"><b> Instruções para testar o Bin2Dec</b> </h4>
 
 <p align="left">Clone o repositório: https://github.com/laurammoraes/bin2dec.git </p>
 <p align="left">Acesse a pasta do projeto via terminal: $cd Bin2Dec </p>
